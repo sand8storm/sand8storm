@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d1117&height=200&section=header&text=Michel%20Aljed&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20Cybersecurity%20Engineering%20Student&descSize=18&descAlignY=65&descColor=7eb8d4&animation=fadeIn" />
+# Michel Aljed
 
-<br/>
+### AI & Cybersecurity Engineering Student
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=7EB8D4&center=true&vCenter=true&width=550&lines=Symbolic+AI+%7C+Machine+Learning+%7C+OSINT;C%2B%2B+%7C+Python+%7C+Prolog+%7C+JavaScript;Teaching+%E2%80%94+Building+%E2%80%94+Researching;Open+to+Collaboration+%26+Research+Roles)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Year-Senior%20IV-1e3a5f?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Degree-B.Sc.%20IT%20Engineering-1e3a5f?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-1e3a5f?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Status-Open%20to%20Collaboration-1a3a1a?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Open%20to%20Collaboration-1a3a2a?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -33,13 +33,14 @@ Beyond my studies, I teach programming and mathematics, and run an Arabic-langua
 | 📚 **Degree** | B.Sc. Information Technology Engineering |
 | 🤖 **Specialization** | Artificial Intelligence & Cybersecurity |
 | 📅 **Year** | Senior — Year IV · Final Year |
+| 🌍 **Languages** | Arabic (Native) · English (C1) |
 
 ---
 
 ## 💼 Experience
 
 **📖 Private Tutor**
-Teaching **Mathematics**, **C++**, **Python**, and **Computer Fundamentals** with focus on conceptual understanding, structured problem-solving, and bridging theory to real-world application.
+Teaching **Mathematics**, **C++**, **Python**, and **Computer Fundamentals** — focused on conceptual understanding, structured problem-solving, and bridging theory to real-world application.
 
 **📡 Technical Content Creator · [@cyborg.div](https://instagram.com/cyborg.div)**
 Creating educational content on cybersecurity, AI, and programming **in Arabic** — for aspiring developers and security practitioners.
@@ -124,22 +125,13 @@ Creating educational content on cybersecurity, AI, and programming **in Arabic**
 
 ---
 
-## 🌐 Languages
-
-![Arabic](https://img.shields.io/badge/Arabic-Native-1e3a5f?style=flat-square&labelColor=0d1117)
-![English](https://img.shields.io/badge/English-C1%20Proficient-1e3a5f?style=flat-square&labelColor=0d1117)
-
----
-
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/@cyborg.div-Technical%20Content%20in%20Arabic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
 &nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=sand8storm&color=4682b4&style=flat-square&label=Profile+Views)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<br/>
 
 *Rigor in reasoning. Precision in code.*
 
