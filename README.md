@@ -105,12 +105,12 @@ Creating educational content on cybersecurity, AI, and programming **in Arabic**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&icon_color=4682b4&border_color=21262d&border_radius=8&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&border_color=21262d&border_radius=8&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sand8storm&show_icons=true&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&icon_color=4682b4&border_color=21262d&border_radius=8&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand8storm&layout=compact&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&border_color=21262d&border_radius=8&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=0d1117&border=21262d&ring=4682b4&fire=7eb8d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7eb8d4&sideLabels=7eb8d4&dates=6e7681&border_radius=8" />
+<img src="https://streak-stats.demolab.com/?user=sand8storm&background=0d1117&border=21262d&ring=4682b4&fire=7eb8d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7eb8d4&sideLabels=7eb8d4&dates=6e7681&border_radius=8" />
 
 </div>
 
@@ -135,7 +135,7 @@ Creating educational content on cybersecurity, AI, and programming **in Arabic**
 
 [![Instagram](https://img.shields.io/badge/@cyborg.div-Technical%20Content%20in%20Arabic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
 &nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4682b4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sand8storm&color=4682b4&style=flat-square&label=Profile+Views)
 
 <br/><br/>
 
