@@ -1,21 +1,10 @@
 <div align="center">
 
-```
-███╗   ███╗██╗ ██████╗██╗  ██╗███████╗██╗
-████╗ ████║██║██╔════╝██║  ██║██╔════╝██║
-██╔████╔██║██║██║     ███████║█████╗  ██║
-██║╚██╔╝██║██║██║     ██╔══██║██╔══╝  ██║
-██║ ╚═╝ ██║██║╚██████╗██║  ██║███████╗███████╗
-╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
-
 # Michel Aljed
 
 **AI & Cybersecurity Engineering Student · Educator · Builder**
 
-*Damascus, Syria · Lebanese-Syrian*
 
-[![Email](https://img.shields.io/badge/Email-michel.aljad%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:michel.aljad@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40cyborg.div-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
 [![University](https://img.shields.io/badge/Antioch_Syrian_University-IT_Engineering-0078D4?style=flat-square&logo=academia&logoColor=white)](#)
 
@@ -35,7 +24,7 @@ Beyond the keyboard, I create educational content on Instagram ([@cyborg.div](ht
 
 ## 🎓 Education
 
-**B.Sc. Information Technology Engineering** — *Year 4 of 4*
+**B.Sc. Information Technology Engineering** 
 Private Syrian University of Antioch
 **Major:** Artificial Intelligence & Cybersecurity
 
