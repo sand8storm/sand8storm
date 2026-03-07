@@ -1,157 +1,264 @@
 <div align="center">
 
-# Michel Aljed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff2,100:0d0d0d&height=200&section=header&text=MICHEL%20ALJED&fontSize=60&fontColor=00fff2&fontAlignY=38&desc=AI%20Engineer%20%7C%20Cybersecurity%20Researcher%20%7C%20Educator&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-**AI & Cybersecurity Engineering Student · Educator · Builder**
+</div>
 
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40cyborg.div-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
-[![University](https://img.shields.io/badge/Antioch_Syrian_University-IT_Engineering-0078D4?style=flat-square&logo=academia&logoColor=white)](#)
+```
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  "The goal of intelligence — artificial or otherwise —           ║
+  ║   is not to compute the answer, but to ask the right question."  ║
+  ╚══════════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFF2&center=true&vCenter=true&width=700&lines=AI+%26+Cybersecurity+Engineering+Student;Symbolic+Logic+%7C+Machine+Learning+%7C+OSINT;Building+at+the+intersection+of+intelligence+%26+security;Teaching+%7C+Researching+%7C+Creating)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👤 About Me
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=michelaljed&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&title_color=00fff2&text_color=ffffff&icon_color=00fff2&border_color=00fff2&border_radius=10&hide_border=false" />
 
-I'm a fourth-year **Information Technology Engineering** student at the Private Syrian University of Antioch, specializing in **Artificial Intelligence and Cybersecurity**. I am passionate about building intelligent systems, securing digital environments, and making technical knowledge accessible to others through teaching.
+## ⬡ Research Identity
 
-Beyond the keyboard, I create educational content on Instagram ([@cyborg.div](https://instagram.com/cyborg.div)) and tutor students in mathematics, programming, and computer fundamentals — combining my love for technology with a drive to share knowledge.
+```python
+class MichelAljed:
+    """
+    AI & Cybersecurity Engineering Candidate.
+    Interested in the philosophical and technical
+    boundaries of machine cognition and digital security.
+    """
 
-> *"Driven by curiosity, grounded in discipline."*
+    affiliation  = "Antioch Private Syrian University"
+    degree       = "B.Sc. Information Technology Engineering"
+    major        = ["Artificial Intelligence", "Cybersecurity"]
+    year         = "Senior (Year IV)"
 
----
+    research_interests = [
+        "Symbolic AI & Knowledge Representation",
+        "Open-Source Intelligence (OSINT)",
+        "Machine Learning Systems",
+        "Embedded Intelligence",
+        "Web Application Security",
+    ]
 
-## 🎓 Education
+    def philosophy(self):
+        return "Rigor in reasoning. Precision in code. Impact in practice."
+```
 
-**B.Sc. Information Technology Engineering** 
-Private Syrian University of Antioch
-**Major:** Artificial Intelligence & Cybersecurity
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C_(Arduino)-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_(Basic)-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### AI & Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PySwip](https://img.shields.io/badge/PySwip_(Prolog_AI)-E61B23?style=flat-square&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-### Cybersecurity
-
-![OSINT](https://img.shields.io/badge/OSINT-Security_Blue_Team-2E86AB?style=flat-square&logoColor=white)
-![Web PenTest](https://img.shields.io/badge/Junior_Web_Pen_Tester-FF4C4C?style=flat-square&logo=hackthebox&logoColor=white)
-![InfoSec](https://img.shields.io/badge/Information_Security_Fundamentals-333?style=flat-square&logo=shield&logoColor=white)
-
-### Development Tools & Environments
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(Intermediate)-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Systems & Engineering Concepts
-
-- 📡 **Microcontrollers & Embedded Systems** — Low-level C (Arduino), hardware debugging
-- ⚙️ **Compiler Design** — Lexical analysis, parsing fundamentals
-- 📊 **Statistical Analysis & Probability** — Applied to ML and data pipelines
-- 🔗 **Computational Graph Theory** — Algorithm design and analysis
-- 📝 **System Analysis & Technical Documentation** — English & Arabic
+<br clear="right"/>
 
 ---
 
-## 🔐 Cybersecurity Focus
+## ⬡ Academic & Technical Domains
 
-| Domain | Details |
-|---|---|
-| **OSINT** | Certified via Security Blue Team — proficient in open-source intelligence gathering and analysis |
-| **Web Penetration Testing** | Junior-level; familiar with common web vulnerabilities and basic exploitation techniques |
-| **Information Security** | Foundational knowledge of threat modeling, security principles, and digital safety practices |
-| **Digital Forensics & Troubleshooting** | Hardware/software diagnostics, system maintenance and recovery |
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+### 🧠 Artificial Intelligence
+```
+├── Symbolic AI & Logic Programming
+│   ├── Prolog  ──────────────── ████████░░ Advanced
+│   └── PySwip (Python-Prolog)── ███████░░░ Proficient
+│
+├── Machine Learning
+│   ├── scikit-learn ─────────── ███████░░░ Proficient
+│   ├── Statistical Modelling ── ██████░░░░ Developing
+│   └── Feature Engineering ──── ██████░░░░ Developing
+│
+└── Data Science Stack
+    ├── NumPy / Pandas ────────── ████████░░ Advanced
+    ├── Matplotlib / Seaborn ──── ███████░░░ Proficient
+    └── MATLAB ────────────────── █████░░░░░ Intermediate
+```
 
-## 🤖 AI & Symbolic Logic Work
+</td>
+<td valign="top" width="50%">
 
-A core area of my studies is the intersection of **symbolic AI** and **machine learning**:
+### 🔐 Cybersecurity
+```
+├── Intelligence & Reconnaissance
+│   └── OSINT ─────────────────── ████████░░ Certified
+│
+├── Offensive Security
+│   └── Web Penetration Testing── ██████░░░░ Junior
+│
+├── Defensive Foundations
+│   ├── Information Security ──── ██████░░░░ Foundational
+│   └── Digital Forensics ─────── █████░░░░░ Developing
+│
+└── Systems Security
+    ├── Linux Hardening ────────── █████░░░░░ Intermediate
+    └── Hardware Diagnostics ───── ██████░░░░ Proficient
+```
 
-- **Prolog & PySwip** — Building knowledge-based systems and logical reasoning engines
-- **Machine Learning** — Supervised learning pipelines using `scikit-learn`, feature engineering with `Pandas` and `NumPy`
-- **Data Visualization** — Communicating insights using `Matplotlib` and `Seaborn`
-- **Statistical Foundations** — Probabilistic reasoning and applied statistics supporting model design
-
----
-
-## 📚 Courses & Certifications
-
-| Course | Provider / Series |
-|---|---|
-| C1 English — General | Interchange Series |
-| C1 English — General | Cutting Edge Series |
-| English for Information Technology | Specialized Technical Track |
-| Academic Writing in English | University-level Course |
-| OSINT for Cybersecurity | Security Blue Team |
-
----
-
-## 💼 Experience
-
-### 📖 Private Tutor — Mathematics, Programming & Technology
-*Ongoing*
-
-- Tutoring students in **Mathematics**, **C++**, **Python**, and general **computer literacy**
-- Developing structured lesson plans and hands-on exercises adapted to each learner's level
-- Bridging the gap between theoretical concepts and real-world application
-
-### 📱 Technical Content Creator — [@cyborg.div](https://instagram.com/cyborg.div) (Instagram)
-*Ongoing*
-
-- Creating accessible, educational content on cybersecurity, programming, and technology trends for an Arabic-speaking audience
-- Growing a community interested in digital skills, ethical hacking, and applied AI
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Languages
+## ⬡ Language Arsenal
 
-| Language | Speaking | Reading | Writing |
-|---|---|---|---|
-| Arabic | Native | Native | Native |
-| English | Fair | Fair | Proficient |
+<div align="center">
+
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C_(Arduino)-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+## ⬡ Engineering Toolkit
 
-I'm open to:
-- 🤝 **Collaboration** on AI, cybersecurity, or open-source projects
-- 💡 **Mentorship** in programming or academic writing
-- 🌍 **Opportunities** in research, internships, or part-time/full-time roles
+<div align="center">
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-michel.aljad%40gmail.com-D14836?style=for-the-badge)](mailto:michel.aljad@gmail.com)
+| Category | Tools |
+|:---|:---|
+| **IDEs & Editors** | VS Code · PyCharm · IntelliJ IDEA · Code::Blocks · Anaconda |
+| **Data & ML** | NumPy · Pandas · Matplotlib · Seaborn · scikit-learn · MATLAB |
+| **AI & Logic** | Prolog · PySwip · Statistical Analysis · Graph Theory |
+| **Cybersecurity** | OSINT Frameworks · Web PenTest Tools · Linux CLI |
+| **Embedded** | Arduino (C) · Microcontroller Debugging · Low-level Systems |
+| **Productivity** | Obsidian · Notion · Microsoft Office · Git |
+| **Documentation** | Technical Writing (EN/AR) · README Authoring · Presentations |
+
+</div>
+
+---
+
+## ⬡ Scholarly Credentials
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                    CERTIFICATIONS & COURSES                    ║
+╠══════════════════════════╦═════════════════════════════════════╣
+║  OSINT Fundamentals      ║  Security Blue Team — Verified      ║
+╠══════════════════════════╬═════════════════════════════════════╣
+║  English · C1 Level      ║  Interchange Series                 ║
+╠══════════════════════════╬═════════════════════════════════════╣
+║  English · C1 Level      ║  Cutting Edge Series                ║
+╠══════════════════════════╬═════════════════════════════════════╣
+║  English for IT          ║  Specialized Technical Track        ║
+╠══════════════════════════╬═════════════════════════════════════╣
+║  Academic Writing (EN)   ║  University-Level Course            ║
+╚══════════════════════════╩═════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⬡ Theoretical Foundations
+
+> These are the academic pillars underlying practical work — not merely tools, but disciplines.
+
+```
+  FORMAL SYSTEMS                    APPLIED INTELLIGENCE
+  ──────────────────                ────────────────────────────
+  ▸ Symbolic Logic                  ▸ Intelligent Agent Design
+  ▸ Compiler Theory                 ▸ Knowledge Representation
+  ▸ Computational Graph Theory      ▸ Supervised Learning Pipelines
+  ▸ Formal Language Theory          ▸ Probabilistic Reasoning
+  ▸ Discrete Mathematics            ▸ Human-Computer Interaction
+
+  SYSTEMS & SECURITY                RESEARCH METHODS
+  ──────────────────────            ────────────────────────────
+  ▸ Microprocessor Architecture     ▸ Technical Documentation
+  ▸ Embedded Systems Design         ▸ Scientific Writing (EN & AR)
+  ▸ Operating Systems Internals     ▸ Analytical Problem Framing
+  ▸ Network Security Fundamentals   ▸ Peer Learning & Mentorship
+```
+
+---
+
+## ⬡ Roles & Contributions
+
+<table>
+<tr>
+<td>
+
+### 📐 Educator & Tutor
+Teaching **Mathematics**, **C++**, **Python**, and **Computer Fundamentals** to students at varying levels. Emphasis on conceptual clarity, structured problem-solving, and bridging theory to application.
+
+</td>
+<td>
+
+### 📡 Technical Content Creator
+Producing educational content on cybersecurity, AI, and applied programming — making advanced technical subjects accessible to Arabic-speaking learners and aspiring developers.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⬡ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelaljed&theme=dark&background=0d0d0d&border=00fff2&stroke=00fff2&ring=00fff2&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff2&sideLabels=00fff2&dates=888888" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michelaljed&bg_color=0d0d0d&color=00fff2&line=00fff2&point=ffffff&area=true&area_color=00fff220&hide_border=false&border_color=00fff2&title_color=00fff2" width="100%"/>
+
+</div>
+
+---
+
+## ⬡ Human Languages
+
+<div align="center">
+
+| Language | Proficiency | Notes |
+|:---:|:---:|:---|
+| 🇸🇦 Arabic | ████████████ Native | Academic & technical writing |
+| 🇬🇧 English | ████████░░░░ C1 | Reading · Writing · Speaking |
+
+</div>
+
+---
+
+## ⬡ Open to Collaboration
+
+<div align="center">
+
+```
+  I am actively seeking opportunities in the following areas:
+
+  ┌─────────────────────────────────────────────────────┐
+  │  ◈  AI / ML Research Collaboration                  │
+  │  ◈  Cybersecurity Projects & CTF Teams              │
+  │  ◈  Open-Source Contributions                       │
+  │  ◈  Academic Research & Publication                 │
+  │  ◈  Remote Internships & Junior Roles               │
+  └─────────────────────────────────────────────────────┘
+```
+
+[![Instagram](https://img.shields.io/badge/%40cyborg.div-Follow_for_Tech_Content-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Damascus, Syria · Available for Remote Collaboration*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00fff2,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=michelaljed&color=blueviolet&style=flat-square)
+*Built with intention. Refined with discipline.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=michelaljed&color=00fff2&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
