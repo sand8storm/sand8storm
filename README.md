@@ -32,7 +32,7 @@ Beyond my studies, I teach programming and mathematics, and run an Arabic-langua
 | 🏛️ **University** | Antioch Private Syrian University |
 | 📚 **Degree** | B.Sc. Information Technology Engineering |
 | 🤖 **Specialization** | Artificial Intelligence & Cybersecurity |
-| 📅 **Year** | Senior — Year IV · Final Year |
+| 📅 **Year** | junior Year IV · Final Year |
 | 🌍 **Languages** | Arabic (Native) · English (C1) |
 
 ---
