@@ -1,138 +1,36 @@
-<div align="center">
-
 # Michel Aljed
 
-### AI & Cybersecurity Engineering Student
+**Offensive Security Engineer · Penetration Tester** · Damascus, Syria
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=7EB8D4&center=true&vCenter=true&width=550&lines=Symbolic+AI+%7C+Machine+Learning+%7C+OSINT;C%2B%2B+%7C+Python+%7C+Prolog+%7C+JavaScript;Teaching+%E2%80%94+Building+%E2%80%94+Researching;Open+to+Collaboration+%26+Research+Roles)](https://git.io/typing-svg)
+I test web applications for security flaws before someone else finds them, and build the tooling that makes each finding verifiable. Final-year Computer Engineering student at Antioch Private Syrian University, with research experience in algorithms, AI, and combinatorial optimization.
 
-<br/>
+[cyborgt.me](https://cyborgt.me) · [LinkedIn](https://www.linkedin.com/in/michel-aljed-566240334) · [CV](https://cyborgt.me/Michel_Aljed_CV.pdf) · michel.aljad@gmail.com
 
-![](https://img.shields.io/badge/Year-Senior%20IV-1e3a5f?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Degree-B.Sc.%20IT%20Engineering-1e3a5f?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-1e3a5f?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Status-Open%20to%20Collaboration-1a3a2a?style=flat-square&labelColor=0d1117)
+## Security tooling
 
-</div>
+**[Beast403](https://github.com/sand8storm/Beast403)**: accuracy-first 403/401 bypass scanner. Validates every candidate bypass against live per-target oracles using SimHash structural classification, with a raw-socket engine to defeat client-side path normalization. Independent four-server benchmark: 100% precision, zero false positives across 28 negative targets, 67% recall.
 
----
+```
+pip install beast403
+```
 
-## 👤 About Me
+**SSTIeye** (in progress): server-side template injection scanner. Uses randomized arithmetic probes confirmed against a baseline response, so real template evaluation is separated from plain reflection.
 
-Final-year **Information Technology Engineering** student at **Antioch Private Syrian University**, specializing in **Artificial Intelligence** and **Cybersecurity**. I work at the intersection of symbolic reasoning, machine learning, and digital security — combining academic rigor with hands-on application.
+## Security work
 
-Beyond my studies, I teach programming and mathematics, and run an Arabic-language tech page to make advanced topics accessible to a wider audience.
+- Authorized black-box penetration tests of Syrian university and commercial web portals, and an OSINT-driven assessment of a public-sector portal. 15+ findings reported on the university portal. Client details withheld under confidentiality.
+- Bug bounty and responsible disclosure as **sand666wind** on [HackerOne](https://hackerone.com/sand666wind), [Intigriti](https://app.intigriti.com/profile/sand666wind), and [Bugcrowd](https://bugcrowd.com/sand666wind).
 
----
+## Research
 
-## 🎓 Education
+- **TSP heuristics:** systematic empirical study of 20+ construction, local-search, and metaheuristic methods under a significance-tested protocol.
+- **LKH candidate generation:** a topological candidate set (MST ∪ Delaunay ∪ k-NN) matched α-nearness quality at roughly 20× the speed, framed as independent verification.
+- **Riemann zeta zeros:** autoencoder-based unsupervised analysis of Odlyzko's dataset.
 
-| | |
-|:---|:---|
-| 🏛️ **University** | Antioch Private Syrian University |
-| 📚 **Degree** | B.Sc. Information Technology Engineering |
-| 🤖 **Specialization** | Artificial Intelligence & Cybersecurity |
-| 📅 **Year** | junior Year IV · Final Year |
-| 🌍 **Languages** | Arabic (Native) · English (C1) |
+## Stack
 
----
+Python · C++ · Bash · SQL · raw-socket HTTP · NumPy · Pandas · scikit-learn · MATLAB · Linux / Kali
 
-## 💼 Experience
+## Also
 
-**📖 Private Tutor**
-Teaching **Mathematics**, **C++**, **Python**, and **Computer Fundamentals** — focused on conceptual understanding, structured problem-solving, and bridging theory to real-world application.
-
-**📡 Technical Content Creator · [@cyborg.div](https://instagram.com/cyborg.div)**
-Creating educational content on cybersecurity, AI, and programming **in Arabic** — for aspiring developers and security practitioners.
-
----
-
-## 🛠️ Skills
-
-**Programming Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-8B0000?style=flat-square&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C / Arduino](https://img.shields.io/badge/C%20%2F%20Arduino-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI & Data Science**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![PySwip](https://img.shields.io/badge/PySwip-8B0000?style=flat-square&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Cybersecurity**
-
-![OSINT](https://img.shields.io/badge/OSINT%20%E2%80%94%20Certified-2E86AB?style=flat-square&logo=hackthebox&logoColor=white)
-![Web PenTest](https://img.shields.io/badge/Web%20Penetration%20Testing-DC143C?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20Security-FCC624?style=flat-square&logo=linux&logoColor=black)
-![InfoSec](https://img.shields.io/badge/Information%20Security-555555?style=flat-square&logoColor=white)
-![Forensics](https://img.shields.io/badge/Digital%20Forensics-444444?style=flat-square&logoColor=white)
-
-**Tools & Environments**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FE315D?style=flat-square&logo=intellijidea&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black)
-
----
-
-## 🏅 Certifications & Courses
-
-| Credential | Provider | Domain |
-|:---|:---|:---|
-| OSINT Fundamentals | Security Blue Team | Cybersecurity |
-| C1 English Proficiency | Interchange Series | Academic Language |
-| C1 English Proficiency | Cutting Edge Series | Academic Language |
-| English for Information Technology | Specialized Technical Track | Technical Communication |
-| Academic Writing in English | University-Level Course | Research Writing |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sand8storm&show_icons=true&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&icon_color=4682b4&border_color=21262d&border_radius=8&hide_border=false" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sand8storm&layout=compact&bg_color=0d1117&title_color=7eb8d4&text_color=c9d1d9&border_color=21262d&border_radius=8&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=sand8storm&background=0d1117&border=21262d&ring=4682b4&fire=7eb8d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7eb8d4&sideLabels=7eb8d4&dates=6e7681&border_radius=8" />
-
-</div>
-
----
-
-## 🤝 Open To
-
-◈ AI & ML Research Collaboration &nbsp;&nbsp; ◈ CTF Teams & Security Research &nbsp;&nbsp; ◈ Open Source Contributions
-
-◈ Remote Internships & Junior Roles &nbsp;&nbsp; ◈ Academic Research & Publication
-
----
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/@cyborg.div-Technical%20Content%20in%20Arabic-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/cyborg.div)
-&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=sand8storm&color=4682b4&style=flat-square&label=Profile+Views)
-
-<br/>
-
-*Rigor in reasoning. Precision in code.*
-
-</div>
+Arabic-language technical content on cybersecurity and programming at [@cyborg.div](https://instagram.com/cyborg.div).
