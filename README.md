@@ -1,33 +1,4 @@
-Claude
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Readme · MD
 # Michel Aljed
  
 **Offensive Security Engineer · Penetration Tester** · Damascus, Syria
